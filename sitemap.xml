@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.fundayo.com/</loc>
+    <lastmod>2020-05-12T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fundayo.com/legal/</loc>
+    <lastmod>2020-05-12T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fundayo.com/legal/privacy-policy/</loc>
+    <lastmod>2020-05-12T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.fundayo.com/tags/africa/</loc>
     <lastmod>2020-04-30T11:00:00+00:00</lastmod>
   </url>
@@ -19,11 +34,6 @@
   
   <url>
     <loc>https://www.fundayo.com/tags/diaspora/</loc>
-    <lastmod>2020-04-30T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fundayo.com/</loc>
     <lastmod>2020-04-30T11:00:00+00:00</lastmod>
   </url>
   
